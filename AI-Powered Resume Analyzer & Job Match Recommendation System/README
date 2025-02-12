@@ -1,12 +1,12 @@
-AI-Powered Resume Analyzer & Job Match Recommendation System
+##AI-Powered Resume Analyzer & Job Match Recommendation System
 
-📌 Project Overview
+#📌 Project Overview
 
 This AI-powered Resume Analyzer & Job Match Recommendation System utilizes Natural Language Processing (NLP) and Machine Learning to parse resumes, extract relevant skills, and match candidates with the best-fitting job opportunities based on job descriptions.
 
 The system applies advanced text processing techniques like TF-IDF vectorization and cosine similarity to assess the alignment between resumes and job postings, generating a ranking of candidates based on their skill relevance.
 
-🚀 Features
+#🚀 Features
 
 Resume Parsing: Extracts key details from resumes, such as skills, education, experience, and more.
 
@@ -18,7 +18,7 @@ Visualization: Generates insightful data visualizations for match score distribu
 
 Automated Reporting: Generates PDF reports for easy review.
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 Python
 
@@ -33,7 +33,7 @@ Matplotlib & Seaborn (Data Visualization)
 FPDF (PDF Report Generation)
 
 
-📊 How It Works
+#📊 How It Works
 
 Load and Clean Data: Preprocess resumes and job descriptions.
 
@@ -45,7 +45,7 @@ Rank Candidates: Sort resumes based on similarity scores.
 
 Generate Reports: Create visual insights and PDF reports.
 
-📌 Results & Insights
+#📌 Results & Insights
 
 The system successfully identifies top candidates based on skill alignment.
 
@@ -53,7 +53,7 @@ Visualizations help in understanding job market trends and skill gaps.
 
 Automated ranking improves the recruitment process efficiency.
 
-🏆 Future Enhancements
+#🏆 Future Enhancements
 
 Deep Learning Models: Improve skill matching accuracy.
 
@@ -61,6 +61,6 @@ Resume Formatting Recommendations: Provide feedback on resume structure.
 
 Web Interface: Build a UI for seamless user interaction.
 
-🤝 Contributing
+#🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository, create feature branches, and submit pull requests. 🚀
